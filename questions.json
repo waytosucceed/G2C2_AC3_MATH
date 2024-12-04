@@ -1,0 +1,37 @@
+[
+  {
+    "questionNo": 1,
+    "question": "There is a mysterious number line on the wall. Skip count by 10s along the number line and fill in the empty boxes to unlock the door.",
+    "options":["20","","40","","60",""],
+    "answers": ["20","30","40","50","60","70"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Next, skip count by 10s and fill in the blank boxes to reveal the hidden code.",
+    "options":["45","","","","85",""],
+    "answers": ["45","55","65","75","85","95"],
+    "secondImg":"./images/1.jpg"  
+  },
+  {
+    "questionNo": 3,
+    "question": "To open the next door, complete the mysterious number line by skip counting by 10s. Fill in the blanks to reveal the code.",
+    "options":["","34","","54","",""],
+    "answers": ["24","34","44","54","64","74"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "A faded number line appears on the wall. Skip count by 10s and fill in the missing numbers to unlock the next clue.",
+    "options":["16","","36","","56",""],
+    "answers": ["16","26","36","46","56","66"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "To find the key, complete the number line by skip counting by 10s. Fill in the blanks to reveal the location of the hidden key.",
+    "options":["39","","59","","",""],
+    "answers": ["39","49","59","69","79","89"],
+    "secondImg":"./images/1.jpg"
+  }
+]

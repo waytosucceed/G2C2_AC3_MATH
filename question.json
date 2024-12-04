@@ -1,0 +1,58 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "The first door has a code based on gold coins stacked in groups of 10. Count by 10s to find the total coins and unlock the door.<br><img width='70%' src='./images/28.jpg'>",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "For the next puzzle, there are bundles of keys hanging on the wall, each with 10 keys. Skip count by 10s to find how many keys are on the wall.<br><img width='70%' src='./images/29.jpg'>",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "20"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q3",
+      "question": "A mysterious map shows treasure chests lined up in rows of 10. Skip count by 10s to discover how many treasures are hidden in this room.<br><img width='70%' src='./images/30.jpg'>",
+      "options": [
+        "40",
+        "50",
+        "70",
+        "60"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Skip count the candles by 10s to find the total number of candles and reveal the secret code.<br><img width='70%' src='./images/31.jpg'>",
+      "options": [
+        "70",
+        "80",
+        "90",
+        "60"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q5",
+      "question": "To unlock the next door, Skip count the stones by 10s to reveal the total number of stones.<br><img width='70%' src='./images/32.jpg'>",
+      "options": [
+        "60",
+        "50",
+        "40",
+        "70"
+      ],
+      "correct": 0
+    }
+  ]
+  
